@@ -8,6 +8,8 @@
 * {
     margin: 0;
     padding: 0;
+    /*Padrão da margem será a borda*/
+    box-sizing: border-box;
 }
 
 html {
