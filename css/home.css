@@ -3,7 +3,7 @@
 #page-home {
     height: 100vh;
     background: url("../img/home-background.svg") no-repeat;
-    background-position: 40vw bottom;
+    background-position: 40vw bottom; /*90px*/
     
 }
 
@@ -45,6 +45,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    transform: translateY(-44px);
 
 
 }

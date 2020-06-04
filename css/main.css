@@ -10,6 +10,7 @@
     padding: 0;
     /*Padrão da margem será a borda*/
     box-sizing: border-box;
+    outline: none;
 }
 
 html {
