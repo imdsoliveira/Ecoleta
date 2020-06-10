@@ -1,6 +1,10 @@
 
 ![](https://github.com/dsoliveiratst/Ecoleta/blob/master/public/img/logo.svg)
 
+### Uma forna eficiente de conectar pessoas e entidades recicladoras...
+
+**Objetivo do Projeto** | **Tecnologias** | **Projeto** | **Layout** | **Como contribuir** | **Licença**
+
 ***
 
 ## Marketplace de coleta de resíduos
@@ -23,9 +27,10 @@ Tornando mais eficiente as pessoas a encontrarem pontos de coleta desses materia
 * Sqlite3
 
 ## Layout 🔖
-Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/zWFz09zZshCPBu5GJ1zYht/Ecoleta-Starter-Copy). Obs.: necessário ter conta no **Figma**.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/zWFz09zZshCPBu5GJ1zYht/Ecoleta-Starter-Copy).
+**Obs.:** _necessário ter conta no _**Figma**.
 
-### Imagens da Aplicação
+### Imagens da Aplicação:
 **Tela de inicio:**
 ![Tela de Inicio da Aplicação ](https://github.com/dsoliveiratst/Ecoleta/blob/master/GitHub/Tela%20de%20Inicio%20-%20Ecoleta.png)
 
@@ -38,8 +43,9 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 **Tela de resultados da pesquisa:**
 ![Tela de resultados da pesquisa](https://github.com/dsoliveiratst/Ecoleta/blob/master/GitHub/Tela%20de%20pesquisa%20-%20Ecoleta.png)
 
-## Como contribuir 🤔 
 ***
+
+## Como contribuir: 🤔
 * Faça um fork desse repositório;
 * Cria uma branch com a sua feature: git checkout -b minha-feature;
 * Faça commit das suas alterações: git commit -m 'feat: Minha nova feature';
@@ -47,7 +53,6 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 * Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 ## Licença 📝
-***
 [...]
 
 **Obs.:** _A aplicação ainda não está finalizada, está passando por alterações no layout e acréscimos de funcionalidades adicionais._
