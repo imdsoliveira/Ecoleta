@@ -17,13 +17,12 @@ Tornando mais eficiente as pessoas a encontrarem pontos de coleta desses materia
 * NodeJS
 
 ## Depêndencias
-***
 * Express
 * Nodemon
 * Nunjucks
 * Sqlite3
 
-Layout 🔖
+## Layout 🔖
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/zWFz09zZshCPBu5GJ1zYht/Ecoleta-Starter-Copy). Obs.: necessário ter conta no **Figma**.
 
 ### Imagens da Aplicação
@@ -39,7 +38,7 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 **Tela de resultados da pesquisa:**
 ![Tela de resultados da pesquisa](https://github.com/dsoliveiratst/Ecoleta/blob/master/GitHub/Tela%20de%20pesquisa%20-%20Ecoleta.png)
 
-Como contribuir 🤔 
+## Como contribuir 🤔 
 ***
 * Faça um fork desse repositório;
 * Cria uma branch com a sua feature: git checkout -b minha-feature;
@@ -47,7 +46,7 @@ Como contribuir 🤔
 * Faça push para a sua branch: git push origin minha-feature.
 * Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-Licença 📝
+## Licença 📝
 ***
 [...]
 
