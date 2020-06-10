@@ -28,7 +28,7 @@ Tornando mais eficiente as pessoas a encontrarem pontos de coleta desses materia
 
 ## Layout 🔖
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/zWFz09zZshCPBu5GJ1zYht/Ecoleta-Starter-Copy).
-**Obs.:** _necessário ter conta no _**Figma**.
+**Obs.:** _necessário ter conta no_ **Figma**.
 
 ### Imagens da Aplicação:
 **Tela de inicio:**
