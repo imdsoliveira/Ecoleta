@@ -1,10 +1,11 @@
-# Ecoleta
-Projeto desenvolvido durante a semana NWL (Next Level Week) da Rocketseat. O Ecoleta é um projeto que visa ajudar pessoas a encontrarem pontos de coleta, de destinação de forma eficiente.
 
 ![Proj. Ecoleta](https://user-images.githubusercontent.com/54821438/83463558-c2229880-a444-11ea-92df-2d737df447f6.jpg)
 ***
+
+
+
 ## Marketplace de coleta de resíduos
-Projeto desenvolvido durante a semana NWL (Next Level Week) da Rocketseat.
+Projeto desenvolvido durante a semana NWL (Next Level Week) da Rocketseat. O Ecoleta é um projeto que visa ajudar pessoas a encontrarem pontos de coleta, de destinação de forma eficiente.
 ***
 
 # Objetivo do Projeto
