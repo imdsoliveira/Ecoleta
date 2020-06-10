@@ -3,7 +3,7 @@
 
 ### Uma forna eficiente de conectar pessoas e entidades recicladoras...
 
-**Objetivo do Projeto** | **Tecnologias** | **Projeto** | **Layout** | **Como contribuir** | **Licença**
+**[Objetivo do Projeto](https://github.com/dsoliveiratst/Ecoleta/blob/master/README.md#objetivo-do-projeto)** | **[Tecnologias](https://github.com/dsoliveiratst/Ecoleta/blob/master/README.md#tecnologias-)** | **[Layout](https://github.com/dsoliveiratst/Ecoleta/blob/master/README.md#layout-)** | **[Como contribuir](https://github.com/dsoliveiratst/Ecoleta/blob/master/README.md#como-contribuir-)r** | **[Licença ](https://github.com/dsoliveiratst/Ecoleta/blob/master/README.md#licen%C3%A7a-)**
 
 ***
 
