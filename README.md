@@ -28,7 +28,7 @@ Tornando mais eficiente as pessoas a encontrarem pontos de coleta desses materia
 
 ## Layout 🔖
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/zWFz09zZshCPBu5GJ1zYht/Ecoleta-Starter-Copy).
-**Obs.:** _necessário ter conta no_ **Figma**.
+**Obs.:** _necessário ter conta no _**Figma**.
 
 ### Imagens da Aplicação:
 **Tela de inicio:**
@@ -52,8 +52,8 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 * Faça push para a sua branch: git push origin minha-feature.
 * Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-## Licença 📝
-[...]
+## Licença 📝 
+Esse projeto está sob a licença MIT. Para mais informações: [LICENSE MIT](https://github.com/dsoliveiratst/Ecoleta/blob/master/LICENSE.md).
 
 **Obs.:** _A aplicação ainda não está finalizada, está passando por alterações no layout e acréscimos de funcionalidades adicionais._
 
