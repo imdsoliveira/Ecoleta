@@ -1,8 +1,7 @@
 
-![Proj. Ecoleta](https://user-images.githubusercontent.com/54821438/83463558-c2229880-a444-11ea-92df-2d737df447f6.jpg)
+![](https://github.com/dsoliveiratst/Ecoleta/blob/master/public/img/logo.svg)
+
 ***
-
-
 
 ## Marketplace de coleta de resíduos
 Projeto desenvolvido durante a semana NWL (Next Level Week) da Rocketseat. O Ecoleta é um projeto que visa ajudar pessoas a encontrarem pontos de coleta, de destinação de forma eficiente.
@@ -24,6 +23,9 @@ Tornando mais eficiente as pessoas a encontrarem pontos de coleta desses materia
 * Nunjucks
 * Sqlite3
 
+Layout 🔖
+Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/zWFz09zZshCPBu5GJ1zYht/Ecoleta-Starter-Copy). Obs.: necessário ter conta no **Figma**.
+
 ### Imagens da Aplicação
 **Tela de inicio:**
 ![Tela de Inicio da Aplicação ](https://github.com/dsoliveiratst/Ecoleta/blob/master/GitHub/Tela%20de%20Inicio%20-%20Ecoleta.png)
@@ -37,4 +39,17 @@ Tornando mais eficiente as pessoas a encontrarem pontos de coleta desses materia
 **Tela de resultados da pesquisa:**
 ![Tela de resultados da pesquisa](https://github.com/dsoliveiratst/Ecoleta/blob/master/GitHub/Tela%20de%20pesquisa%20-%20Ecoleta.png)
 
+Como contribuir 🤔 
+***
+* Faça um fork desse repositório;
+* Cria uma branch com a sua feature: git checkout -b minha-feature;
+* Faça commit das suas alterações: git commit -m 'feat: Minha nova feature';
+* Faça push para a sua branch: git push origin minha-feature.
+* Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+Licença 📝
+***
+[...]
+
 **Obs.:** _A aplicação ainda não está finalizada, está passando por alterações no layout e acréscimos de funcionalidades adicionais._
+
