@@ -1,0 +1,7 @@
+Pesquisa por Estado
+Inlcuir Mapa no resultados de pesquisa listando os endereços:
+https://www.devmedia.com.br/introducao-a-google-maps-api/26967
+https://www.homehost.com.br/blog/criar-sites/inserir-google-maps-no-site/
+
+alterar a cor
+pagina de erro 
