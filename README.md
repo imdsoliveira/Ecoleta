@@ -37,6 +37,9 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 **Tela de cadastro:**
 ![Tela de cadastro](https://github.com/dsoliveiratst/Ecoleta/blob/master/GitHub/Tela%20de%20Cadastro%20-%20Ecoleta.png)
 
+**Tela do modal de erro de cadastro:**
+![Tela de erro de cadastro](https://github.com/dsoliveiratst/Ecoleta/blob/master/GitHub/Tela%20de%20Erro%20de%20Cadastro.png)
+
 **Tela do modal de pesquisa:**
 ![Tela da modal de pesquisa](https://github.com/dsoliveiratst/Ecoleta/blob/master/GitHub/Tela%20do%20Modal%20-%20Ecoleta.png)
 
