@@ -32,19 +32,19 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ### Imagens da Aplicação:
 **Tela de inicio:**
-![Tela de Inicio da Aplicação ](https://github.com/dsoliveiratst/Ecoleta/blob/master/GitHub/Tela%20de%20Inicio%20-%20Ecoleta.png)
+![Tela de Inicio da Aplicação ](https://github.com/dsoliveiratst/Ecoleta/blob/master/imgreadme/Tela%20de%20Inicio%20-%20Ecoleta.png)
 
 **Tela de cadastro:**
-![Tela de cadastro](https://github.com/dsoliveiratst/Ecoleta/blob/master/GitHub/Tela%20de%20Cadastro%20-%20Ecoleta.png)
+![Tela de cadastro](https://github.com/dsoliveiratst/Ecoleta/blob/master/imgreadme/Tela%20de%20Cadastro%20-%20Ecoleta.png)
 
 **Tela do modal de erro de cadastro:**
-![Tela de erro de cadastro](https://github.com/dsoliveiratst/Ecoleta/blob/master/GitHub/Tela%20de%20Erro%20de%20Cadastro.png)
+![Tela de erro de cadastro](https://github.com/dsoliveiratst/Ecoleta/blob/master/imgreadme/Tela%20de%20Erro%20de%20Cadastro.png)
 
 **Tela do modal de pesquisa:**
-![Tela da modal de pesquisa](https://github.com/dsoliveiratst/Ecoleta/blob/master/GitHub/Tela%20do%20Modal%20-%20Ecoleta.png)
+![Tela da modal de pesquisa](https://github.com/dsoliveiratst/Ecoleta/blob/master/imgreadme/Tela%20do%20Modal%20-%20Ecoleta.png)
 
 **Tela de resultados da pesquisa:**
-![Tela de resultados da pesquisa](https://github.com/dsoliveiratst/Ecoleta/blob/master/GitHub/Tela%20de%20pesquisa%20-%20Ecoleta.png)
+![Tela de resultados da pesquisa](https://github.com/dsoliveiratst/Ecoleta/blob/master/imgreadme/Tela%20de%20pesquisa%20-%20Ecoleta.png)
 
 ***
 
